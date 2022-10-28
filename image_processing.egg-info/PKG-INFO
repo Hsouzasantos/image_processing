@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: leitor de imagem
+Home-page: 
+Author: Hugo Santos
+Author-email: hugosantosdev@gmail.com
+Requires-Python: >=3.8
